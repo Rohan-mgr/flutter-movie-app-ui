@@ -1,7 +1,7 @@
-<img src="https://github.com/Rohan-mgr/flutter-movie-app-ui/assets/78647278/0e3b4968-dc7e-4e40-a0bf-4dbca8440e32" alt="Image" height="500" width='400'>
+<img src="https://github.com/Rohan-mgr/flutter-movie-app-ui/assets/78647278/0e3b4968-dc7e-4e40-a0bf-4dbca8440e32" alt="Image" height="600" width='400'>
 
 
-# flutter_fruit_api
+# flutter_movie_app
 
 A new Flutter project.
 
