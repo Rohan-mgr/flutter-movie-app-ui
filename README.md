@@ -1,3 +1,9 @@
+![image description](https://github.com/Rohan-mgr/flutter-movie-app-ui/assets/78647278/0e3b4968-dc7e-4e40-a0bf-4dbca8440e32)
+
+<div style="height: 200px;">
+  ![image description](https://github.com/Rohan-mgr/flutter-movie-app-ui/assets/78647278/0e3b4968-dc7e-4e40-a0bf-4dbca8440e32)
+</div>
+
 # flutter_fruit_api
 
 A new Flutter project.
@@ -14,4 +20,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![c9fe9701-56b7-4202-b7d6-c4956100af78](https://github.com/Rohan-mgr/flutter-movie-app-ui/assets/78647278/0e3b4968-dc7e-4e40-a0bf-4dbca8440e32)
